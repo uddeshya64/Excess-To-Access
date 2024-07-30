@@ -14,7 +14,7 @@ header {
     justify-content: space-between; /* Space between left-options and right-options */
     align-items: center; /* Center items vertically */
     padding: 0px; /* Adjust padding as needed */
-    background-color: black; /* Optional: Add background color */
+    background-color: transparent; /* Optional: Add background color */
     height: 60px;
     border-bottom: 1px solid #ddd; /* Optional: Add bottom border for header */
 }
