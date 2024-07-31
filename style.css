@@ -423,3 +423,27 @@ button[type="submit"] {
   margin-left: 218px;
   margin-top: 0px;
 }
+#page-content{
+  display: flex;
+  position: relative;
+  height: 400px;
+  width:inherit;
+  background-color:#171717;
+}
+.content-text h1{
+  color: #fefefe;
+}
+.content-text{
+  display: block;
+  height: auto;
+  width: 300px;
+  margin-left: 500px;
+  color: rgb(156, 156, 156);
+  text-decoration: none;
+  padding-top: 10px;
+}
+
+.content-video{
+  padding: 30px;
+  justify-content:baseline;
+}

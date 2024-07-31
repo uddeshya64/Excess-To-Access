@@ -101,4 +101,3 @@ $(document).ready(function() {
       timeFormat: "HH:mm" // 24-hour format (replace with "hh:mm" for 12-hour)
     });
   });
-  
